@@ -9,14 +9,14 @@ The OpenSceneGraph will remain supported and will co-exist with the new scene gr
 
 Development of the VulkanSceneGraph will follow the spiral model of software development with three phases leading up to the 1.0 stable release. These phases will broadly be:
 
-1. __Exploration Phase__
-> Running June through August 2018 to research the technologies and techniques to be used
+* __Exploration Phase__ :
+Running June through August 2018 to research the technologies and techniques to be used
 
-2. __Development Phase__
-> September 2018 onwards, will establish core scene graph classes with Vulkan support. Hopefully alpha functionality by the end of 2018/early 2019
+* __Development Phase__ :
+September 2018 onwards, will establish core scene graph classes with Vulkan support. Hopefully alpha functionality by the end of 2018/early 2019
 
-3. __Refinement Phase__
-> Timing depends upon phase two, with broad aim for beta functional in 2019. The core scene graph will be tested in graphics application development, with refinements made to support working towards 1.0 stable release
+* __Refinement Phase__ :
+Timing depends upon phase two, with broad aim for beta functional in 2019. The core scene graph will be tested in graphics application development, with refinements made to support working towards 1.0 stable release
 
 ## Work underway
 

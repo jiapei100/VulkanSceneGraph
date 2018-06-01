@@ -1,5 +1,5 @@
 
-# VulkanSceneGraph introduction:
+# VulkanSceneGraph introduction
 
 The __VulkanSceneGraph__ project is now under-way and will be a multi-year effort to develop an open source, next generation scene graph based on the Vulkan graphics API and modern C++.
 
@@ -9,16 +9,16 @@ The OpenSceneGraph will remain supported and will co-exist with the new scene gr
 
 Development of the VulkanSceneGraph will follow the spiral model of software development with three phases leading up to the 1.0 stable release. These phases will broadly be:
 
-> ## Exploration Phase
-> > Running June through August 2018 to research the technologies and techniques to be used |
+1. __Exploration Phase__
+> Running June through August 2018 to research the technologies and techniques to be used
 
-> ## Development Phase
-> > September 2018 onwards, will establish core scene graph classes with Vulkan support. Hopefully alpha functionality by the end of 2018/early 2019
+2. __Development Phase__
+> September 2018 onwards, will establish core scene graph classes with Vulkan support. Hopefully alpha functionality by the end of 2018/early 2019
 
-> ## Refinement Phase
-> > Timing depends upon phase two, with broad aim for beta functional in 2019. The core scene graph will be tested in graphics application development, with refinements made to support working towards 1.0 stable release
+3. __Refinement Phase__
+> Timing depends upon phase two, with broad aim for beta functional in 2019. The core scene graph will be tested in graphics application development, with refinements made to support working towards 1.0 stable release
 
-## Work underway:
+## Work underway
 
 We have just entered the Exploration Phase so the project is in it's infancy.  While we have many ideas on what approaches to take we don't yet have a design document to share. The design and more detailed project development plans will be a product of the Exploration Phase which we'll publish at the end of August 2018.
 

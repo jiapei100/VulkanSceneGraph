@@ -26,12 +26,12 @@ Timing depends upon preceeding pahses, with broad aim for 1.0 stable release lat
 We are completed the __Exploration Phase__ and have established the main tools, depdendencies and techniques we'll use going forward. We are presently working the __Prototype Phase__, this is being done within the [VulkanSceneGraphPrototype](https://github.com/robertosfield/VulkanSceneGraphPrototype) repository. If we want to learn more details about the present work I would recommend browsing the VulkanSceneGraphPrototype reposotiry. Follows are a some direct links into this repository:
 
 ## Useful links within the VulkanSceneGraphPrototype:
-* Software development [RoadMap](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterROADMAP.md)
-* Design : [Principles and Philosophy](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterdocs/Design/DesignPrinciplesAndPhilosophy.md),  [High Level Decisions](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterdocs/docs/Design/HighLevelDesignDecisions.md)
-* Community resources :  [Code of Conduct](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterdocs/CODE_OF_CONDUCT.md), [Contributing guide](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterdocs/CONTRIBUTING.md)
-* Exploration Phase Materials : [Areas of Interest](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterdocs/ExplorationPhase/AreasOfInterest.md), [3rd Party Resources](https://github.com/robertosfield/VulkanSceneGraphPrototypedocs/docs/ExplorationPhase/3rdPartyResources.md) and [Exploration Phase Report](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterdocs/ExplorationPhase/VulkanSceneGraphExplorationPhaseReport.md)
-* Headers - the public interface : [include/vsg/](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/masterinclude/vsg)
-* Source - the implementation : [src/vsg/](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/mastersrc/vsg)
+* Software development [RoadMap](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/ROADMAP.md)
+* Design : [Principles and Philosophy](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/Design/DesignPrinciplesAndPhilosophy.md),  [High Level Decisions](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/docs/Design/HighLevelDesignDecisions.md)
+* Community resources :  [Code of Conduct](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/CODE_OF_CONDUCT.md), [Contributing guide](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/CONTRIBUTING.md)
+* Exploration Phase Materials : [Areas of Interest](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/ExplorationPhase/AreasOfInterest.md), [3rd Party Resources](https://github.com/robertosfield/VulkanSceneGraphPrototypedocs/docs/ExplorationPhase/3rdPartyResources.md) and [Exploration Phase Report](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/ExplorationPhase/VulkanSceneGraphExplorationPhaseReport.md)
+* Headers - the public interface : [include/vsg/](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/include/vsg)
+* Source - the implementation : [src/vsg/](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/src/vsg)
 
 
 

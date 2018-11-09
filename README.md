@@ -9,7 +9,7 @@ It's still very early days for the project, so far we have three projects, the v
 
 * [osg2vsg](https://github.com/vsg-dev/osg2vsg) - utility library that can convert OpenSceneGraph image and scene graphs to VSG equivalents, enabling use of OpenSceneGraph image and model loaders
 
-* [osgExamples](https://github.com/vsg-dev/osgExamples) - set of example programs that are being used initially to test functionality as it evolves, and then evolving into a example set to help developers learn how to use the VSG.
+* [vsgExamples](https://github.com/vsg-dev/vsgExamples) - set of example programs that are being used initially to test functionality as it evolves, and then evolving into a example set to help developers learn how to use the VSG.
 
 --
 

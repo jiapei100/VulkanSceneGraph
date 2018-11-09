@@ -1,7 +1,7 @@
 
 # VulkanSceneGraph introduction
 
-The __VulkanSceneGraph__/__VkSceneGraph__ project is now under-way and will be a multi-year effort to develop an open source, next generation scene graph based on the Vulkan graphics API and modern C++.
+The __VulkanSceneGraph__/__VkSceneGraph__ project is now under-way and will be a multi-year effort to develop an open source, next generation scene graph based on the Vulkan graphics API and modern C++17.  The home for new scene graph project is [https://github.com/vsg-dev](https://github.com/vsg-dev) so head there to see the latest work.
 
 The project is under the auspices of Robert Osfield, principal author and project lead of the  __OpenSceneGraph__.  The new scene graph is the successor to the OpenSceneGraph, building upon all the knowledge and skills accumulated through the OpenSceneGraph's 20 years history.  The OpenSceneGraph and VulkanSceneGraph are both members of the same family, the DNA of the best elements of the OpenSceneGraph will be evident in the new scene graph. If you like the OpenSceneGraph we hope you'll love the VulkanSceneGraph.
 
@@ -21,18 +21,13 @@ January 2018 onwards, will establish core scene graph classes with Vulkan suppor
 * __Relase Phase__ :
 Timing depends upon preceeding pahses, with broad aim for 1.0 stable release later 2019. The core scene graph will be tested in graphics application development with refinements rather new features being the focus on work.
 
-## Prototype Phase underway
+--
 
-We are completed the __Exploration Phase__ and have established the main tools, depdendencies and techniques we'll use going forward. We are presently working the __Prototype Phase__, this is being done within the [VulkanSceneGraphPrototype](https://github.com/robertosfield/VulkanSceneGraphPrototype) repository. If we want to learn more details about the present work I would recommend browsing the VulkanSceneGraphPrototype reposotiry. Follows are a some direct links into this repository:
+It's still very early days for the project, so far we have three projects, the vsg scene graph library, an osg2vsg utility library and a set of examples:
 
-## Useful links within the VulkanSceneGraphPrototype:
-* Software development [RoadMap](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/ROADMAP.md)
-* Design : [Principles and Philosophy](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/Design/DesignPrinciplesAndPhilosophy.md),  [High Level Decisions](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/docs/Design/HighLevelDesignDecisions.md)
-* Community resources :  [Code of Conduct](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/CODE_OF_CONDUCT.md), [Contributing guide](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/CONTRIBUTING.md)
-* Exploration Phase Materials : [Areas of Interest](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/ExplorationPhase/AreasOfInterest.md), [3rd Party Resources](https://github.com/robertosfield/VulkanSceneGraphPrototypedocs/docs/ExplorationPhase/3rdPartyResources.md) and [Exploration Phase Report](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/docs/ExplorationPhase/VulkanSceneGraphExplorationPhaseReport.md)
-* Headers - the public interface : [include/vsg/](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/include/vsg)
-* Source - the implementation : [src/vsg/](https://github.com/robertosfield/VulkanSceneGraphPrototype/blob/master/src/vsg)
+* [VulkanSceneGraphPrototype](https://github.com/vsg-dev/VulkanSceneGraphPrototype) - prototype for the Vulkan/VkSceneGraph library
 
+* [osg2vsg](https://github.com/vsg-dev/osg2vsg) - utility library that can convert OpenSceneGraph image and scene graphs to VSG equivalents, enabling use of OpenSceneGraph image and model loaders
 
+* [osgExamples](https://github.com/vsg-dev/osgExamples) - set of example programs that are being used initially to test functionality as it evolves, and then evolving into a example set to help developers learn how to use the VSG.
 
-__Robert Osfield__, VulkanSceneGraph project lead, 1st June 2018
